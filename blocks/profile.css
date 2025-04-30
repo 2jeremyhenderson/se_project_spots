@@ -43,8 +43,16 @@
     margin-top: auto;
 }
 
+.profile__edit-btn:hover {
+
+}
+
 .profile__add-btn {
     margin-left: auto;
+}
+
+.profile__add-btn:hover {
+    
 }
 
 @media screen and (max-width: 627px){
