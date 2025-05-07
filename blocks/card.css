@@ -26,6 +26,10 @@
     cursor: pointer;
 }
 
+.card__like-btn:hover {
+    
+}
+
 @media screen and (max-width: 627px) {
     .card__image {
         height: 288px;
