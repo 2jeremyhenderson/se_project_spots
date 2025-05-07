@@ -27,7 +27,9 @@
 }
 
 .card__like-btn:hover {
-    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
 }
 
 @media screen and (max-width: 627px) {
