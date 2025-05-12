@@ -17,3 +17,4 @@ Project that is based on functioning on the site "Figma" in order to view and li
 This webpage is deployed to Github Pages
 
 - Deployment Link: 
+https://github.com/2jeremyhenderson/se_project_spots
